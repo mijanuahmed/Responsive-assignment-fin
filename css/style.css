@@ -2,7 +2,7 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 
-.carousel-image-position{
+.carousel-image{
     position: absolute;
     left: 700px
     ;
