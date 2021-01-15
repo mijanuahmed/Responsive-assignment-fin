@@ -42,9 +42,7 @@ h3{
 }
 
 @media(max-width:992px){
-    .nav-car{
-        margin-bottom: 0px;
-    }
+    
     .shopping-image-position{
         display:none;
     }
